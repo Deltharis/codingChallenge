@@ -1,0 +1,22 @@
+[
+  {
+    "caseId": 13,
+    "title": "title",
+    "description": "desc",
+    "severity": 1,
+    "status": "OPEN",
+    "user": {
+      "userId": 15,
+      "firstName": "firstName",
+      "lastName": "lastName",
+      "email": "email"
+    },
+    "notes": [
+      {
+        "noteId": 14,
+        "caseId": 13,
+        "details": "note"
+      }
+    ]
+  }
+]
